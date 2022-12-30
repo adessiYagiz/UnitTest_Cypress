@@ -1,0 +1,20 @@
+[
+  {
+    "movieID": 0,
+    "movieName": "Inside Out",
+    "description": "Inside Out is a film about an 11 year old girl named Riley who moves across the country from Minnesota to San Francisco with her parents. Riley experiences a transformation in her mind and in who she is as a person as she tries to adjust to her new life in San Francisco and to the difficult process of growing up.",
+    "category": "Animation"
+  },
+  {
+    "movieID": 1,
+    "movieName": "Wreck It Ralph",
+    "description": "A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the whole arcade where he lives.",
+    "category": "Animation"
+  },
+  {
+    "movieID": 2,
+    "movieName": "Ratatouille",
+    "description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant. A rat named Remy dreams of becoming a great French chef despite his family's wishes and the obvious problem of being a rat in a decidedly rodent-phobic profession.",
+    "category": "Animation"
+  }
+]
